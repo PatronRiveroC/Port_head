@@ -22,4 +22,4 @@ This repository contains the data and code supporting the publication.
 All datasets, raw measurements, phylogenetic trees, and analytical scripts used in this study **are fully available** in this repository to ensure complete reproducibility:
 
 * **`/data`**: Contains raw morphological landmark coordinates, phenotypic matrices, and phylogenetic trees in standard formats (`.csv`, `.rds`, `.tre`).
-* **`/scripts`**: Contains reproducible R and Python scripts for geometric morphometrics, phylogenetic comparative methods, and statistical modeling.
+* **`/codes`**: Contains reproducible scripts for geometric morphometrics, phylogenetic comparative methods, and statistical modeling.
