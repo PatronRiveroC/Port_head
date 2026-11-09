@@ -14,7 +14,6 @@ This repository contains the data and code supporting the publication.
 <p align="center">
   <img src="images/Fig_1.jpg" alt="Figure 1: Morphological head disparity and phylogenetic relationships in Porthidium" width="85%"/>
 </p>
-<p align="center"><em>Figure 1: Overview of morphological disparity and evolutionary patterns across the genus <i>Porthidium</i>.</em></p>
 
 ---
 
