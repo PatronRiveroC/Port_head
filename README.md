@@ -4,9 +4,8 @@
 [![R](https://img.shields.io/badge/R-%3E%3D_4.0-blue.svg)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-%3E%3D_3.8-blue.svg)](https://www.python.org/)
 
-This repository contains the data, code, and supplementary materials supporting the publication:
+This repository contains the data and code supporting the publication.
 
-> **Phylogeny structures morphological head disparity in Neotropical Hognose Pitvipers (*Porthidium*)**
 
 ---
 
@@ -25,14 +24,3 @@ All datasets, raw measurements, phylogenetic trees, and analytical scripts used 
 
 * **`/data`**: Contains raw morphological landmark coordinates, phenotypic matrices, and phylogenetic trees in standard formats (`.csv`, `.rds`, `.tre`).
 * **`/scripts`**: Contains reproducible R and Python scripts for geometric morphometrics, phylogenetic comparative methods, and statistical modeling.
-
----
-
-## Repository Structure
-
-```text
-├── data/               # Raw and processed datasets, phylogenetic trees
-├── scripts/            # Analysis scripts (R/Python)
-├── images/             # Figures and graphical abstracts (e.g., Fig_1.jpg)
-├── README.md           # Repository documentation
-└── LICENSE             # Licensing information
